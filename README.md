@@ -1,3 +1,22 @@
+# Projeto React consumindo API StarWars
+
+Foi utilizado no projeto:
+
+- TypeScript
+- ReactJS
+- Material UI
+- Axius
+- Protocolo Rest
+
+Tela de login:
+
+![image](https://user-images.githubusercontent.com/85684965/195226057-878b86cc-2a0e-458e-bb66-65152be68efb.png)
+
+Listagem das informações e graficos de rosca utilizando Material UI
+
+![image](https://user-images.githubusercontent.com/85684965/195226186-617a18a6-ab91-4312-af1a-02c9a083117b.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
