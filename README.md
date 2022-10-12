@@ -10,6 +10,9 @@ Foi utilizado no projeto:
 
 Tela de login:
 
+Login: admin
+Senha: password
+
 ![image](https://user-images.githubusercontent.com/85684965/195226057-878b86cc-2a0e-458e-bb66-65152be68efb.png)
 
 Listagem das informações e graficos de rosca utilizando Material UI
